@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Keven Ni',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'keven-n.vercel.app/',
   author: 'Keven Ni',
 
   // open graph metadata (optional)
